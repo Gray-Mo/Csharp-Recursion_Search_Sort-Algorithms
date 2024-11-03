@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Work\\rpa\\cSharp\\Algo\\GrokkingAlgo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC13011-D4A4-47D9-ABA9-D46C965D4DD1}|Sort\\Sort.csproj|f:\\work\\rpa\\csharp\\algo\\grokkingalgo\\sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC13011-D4A4-47D9-ABA9-D46C965D4DD1}|Sort\\Sort.csproj|solutionrelative:sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Work\\rpa\\cSharp\\Algo\\GrokkingAlgo\\Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Sort\\Program.cs",
+              "ToolTip": "F:\\Work\\rpa\\cSharp\\Algo\\GrokkingAlgo\\Sort\\Program.cs",
+              "RelativeToolTip": "Sort\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T01:30:02.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

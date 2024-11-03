@@ -1,0 +1,7 @@
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\bin\Debug\Sort.exe.config
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\bin\Debug\Sort.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\bin\Debug\Sort.pdb
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\obj\Debug\Sort.csproj.AssemblyReference.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\obj\Debug\Sort.csproj.CoreCompileInputs.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\obj\Debug\Sort.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Sort\obj\Debug\Sort.pdb

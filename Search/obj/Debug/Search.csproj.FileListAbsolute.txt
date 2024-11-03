@@ -1,0 +1,7 @@
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\bin\Debug\Search.exe.config
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\bin\Debug\Search.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\bin\Debug\Search.pdb
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\obj\Debug\Search.csproj.AssemblyReference.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\obj\Debug\Search.csproj.CoreCompileInputs.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\obj\Debug\Search.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Search\obj\Debug\Search.pdb

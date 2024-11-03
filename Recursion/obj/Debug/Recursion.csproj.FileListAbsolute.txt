@@ -1,0 +1,7 @@
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\bin\Debug\Recursion.exe.config
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\bin\Debug\Recursion.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\bin\Debug\Recursion.pdb
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\obj\Debug\Recursion.csproj.AssemblyReference.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\obj\Debug\Recursion.csproj.CoreCompileInputs.cache
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\obj\Debug\Recursion.exe
+F:\Work\rpa\cSharp\Algo\GrokkingAlgo\Recursion\obj\Debug\Recursion.pdb
