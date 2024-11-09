@@ -4,4 +4,4 @@ Searching: binary search.
 
 Sorting: quick sort, sellection sort.
 
-Recursion, Factorial, Fibonacci, binary search.
+Recursion: Factorial, Fibonacci, binary search.
